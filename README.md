@@ -1,6 +1,6 @@
 # conexao
 
-Projeto básico feito na IDEA Visual Studio Code, linguagem Java [1^]
+Projeto básico feito na IDEA Visual Studio Code, linguagem Java[1^]. 
 Objetivo: Fazer conexão entre projetos e banco de dados (pode configurar para qualquer Banco de Dados de sua Preferência).
 
 ## Tecnologia utilizada:
