@@ -1,6 +1,6 @@
 # conexao
 
-Projeto básico feito na IDEA Visual Studio Code, linguagem Java [1^]. 
+Projeto básico feito na IDEA Visual Studio Code, linguagem Java[1^]. 
 
 Objetivo: Fazer conexão entre projetos e banco de dados (pode configurar para qualquer Banco de Dados de sua Preferência).
 
@@ -14,6 +14,7 @@ Objetivo: Fazer conexão entre projetos e banco de dados (pode configurar para q
 
 [Acesse o Link da dependência:](https://mvnrepository.com/artifact/org.postgresql/postgresql/42.7.1)
 
->"Tudo é possível, basta crê naquele que tudo pode fazer! Tenha esperança e nunca pare de sonhar!" 
+>"Tudo é possível, basta crê naquele que tudo pode fazer! Tenha esperança e nunca pare de sonhar!"
+<!--- Minhas palavras ---> 
 
 [1^]: Projeto baseado em um exemplo do professor Jesiel V.(Youtube).
