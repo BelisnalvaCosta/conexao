@@ -1,4 +1,4 @@
-# conexao[1^]
+# conexao[1^].
 
 Projeto básico feito na IDEA Visual Studio Code, linguagem Java;
 Objetivo: Fazer conexão entre projetos e banco de dados (pode configurar para qualquer Banco de Dados de sua Preferência).
@@ -8,9 +8,11 @@ Back-end
 Java
 
 ## Dependências:
-Maven
-jdbc - PostgreSQL
+- Maven
+- jdbc - PostgreSQL
 
-Link : https://mvnrepository.com/artifact/org.postgresql/postgresql/42.7.1
+[Acesse o Link da dependência:](https://mvnrepository.com/artifact/org.postgresql/postgresql/42.7.1)
 
-[1^]Projeto baseado em um exemplo do professor Jesiel V.(Youtube).
+>"Tudo é possível, basta crê naquele que tudo pode fazer! Tenha esperança e nunca pare de sonhar!" 
+
+[1^]: Projeto baseado em um exemplo do professor Jesiel V.(Youtube).
